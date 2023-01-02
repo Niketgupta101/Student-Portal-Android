@@ -7,13 +7,13 @@ import {
 import { Button, Text, TextInput } from 'react-native-paper';
 
 const account = {
-  Name: 'Gupta Niket',
-  Admission_Number: '19JE0340',
-  Course: 'B.Tech',
-  Passout_Year: '2023',
-  Contact_Number: '7600420703',
-  Email: '19je0340@mech.iitism.ac.in',
-  Password: 'Niket101'
+  Name: '',
+  Admission_Number: '',
+  Course: '',
+  Passout_Year: '',
+  Contact_Number: '',
+  Email: '',
+  Password: ''
 }
 
 const Account = () => {
